@@ -2,3 +2,4 @@ Int a,b,c;
 a=10,b=20;
 c=a+b;
 print ("sum of a,b is:",c);
+print("you did a addition operation" );
